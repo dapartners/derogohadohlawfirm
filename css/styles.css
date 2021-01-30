@@ -10214,6 +10214,9 @@ header.masthead {
 #masterhead-consult{
   background-image: url("../assets/img/consult.jpg"); /* REALESTATE LAW PAGE */
 }
+#masterhead-home{
+  background-image: url("../assets/img/home.jpg"); /* REALESTATE LAW PAGE */
+}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
@@ -10222,7 +10225,7 @@ header.masthead .masthead-subheading {
   font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 2.25rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
@@ -10241,7 +10244,7 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
@@ -10712,4 +10715,37 @@ header h1 {
 #mainNav .navbar-brand img {
   height: 4rem;
 }
+}
+
+/* whatsapp */
+.whatsapp_float {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+        font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+        z-index:100;
+}
+
+.whatsapp-icon {
+	margin-top:16px;
+}
+/* for mobile */
+@media screen and (max-width: 767px){
+     .whatsapp-icon {
+	 margin-top:10px;
+     }
+    .whatsapp_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 10px;
+        font-size: 22px;
+    }
 }
