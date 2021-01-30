@@ -1,0 +1,120 @@
+@media only screen and (max-width: 640px){
+  
+   
+    
+     /* Promo */
+    
+    .promo {
+      background-color: black;
+      color: white;
+      padding-top: 10rem;
+      height: auto;
+      margin-top: 3rem;
+    }
+    .promo-details-div{
+     display: inline-block;
+      width: 100%;
+    }
+    .promo-card{
+      background-color: white;
+    color: black;
+    display: inline-block;
+    width: 19rem;
+       margin: 1rem;
+       padding-top: 1rem;
+       box-sizing: border-box;
+       box-shadow: 0 4px 2px  rgb(236, 8, 8);
+       transform: scale(1);
+      transition: transform 0.5s ease;
+    } 
+    .promo-card:hover{
+      box-shadow: 5px 10px 20px 1px rgb(27, 24, 24) !important;
+      transform: scale(1.1);
+    }
+    .promo-card h3{
+      font-family: 'Oswald', sans-serif;
+    }
+    .promo-card hr{
+      width: 99%;
+      border: 1px solid rgb(236, 8, 8);
+      margin-top: 2rem;
+    }
+    .promo-card p{
+      padding: 1rem;
+      font-family: 'Faustina', serif;
+      text-align: center;
+      margin-top: 2rem;
+      margin-bottom: 4rem;
+      font-size: 1.6rem;
+    }
+    .promo-card li{
+      list-style-type:none;
+      width: 90%;
+      margin: 1rem;
+      font-size: 1.2rem;
+      text-align: center;
+    }
+    .promo-enquiry-div{
+      background-color: red;
+      margin-top: 3rem;
+      display: inline-block;
+      padding: 2rem;
+      width: 100%;
+      height: 18rem;
+      color: white;
+    }
+    
+    .promo-top {
+      display: inline-block;
+      margin: 3rem;
+      width: 40%;
+      
+    }
+    .description{
+      width: 90%;
+      font-family: 'EB Garamond', serif;
+      font-size: 2rem;
+      text-align: center;
+      
+    }
+    .promo-top-heading hr{
+      display: inline-block;
+      margin-right: 1rem;
+      position: relative;
+      top: .5rem;
+      width: 30%;
+      border: 1px solid red;
+    }
+    .promo-top-heading h4{
+      display: inline-block;
+    
+    }
+    .promo-top-div p{
+      font-family: 'Metal Mania', cursive;
+      font-size: 3rem;
+    }
+    .promo-top p{
+      font-family: 'Metal Mania', cursive;
+      font-size: 3rem;
+    }
+    .promo-button {
+      width: 20rem;
+      height: 4rem;
+      border-style: none;
+      background-color: white;
+      color: black;
+      font-size: 1.8rem;
+    }
+    .promo-button:hover{
+      background-color: white;
+      border-collapse: collapse;
+      color: rgb(6, 110, 201);
+    }
+
+      /* NAv */
+  /* #mainNav .navbar-brand img {
+    height: 4rem;
+    transition: height 0.3s ease-in-out;
+  }
+    */
+  }
