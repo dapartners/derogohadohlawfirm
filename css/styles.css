@@ -10720,8 +10720,8 @@ header h1 {
 /* whatsapp */
 .whatsapp_float {
 	position:fixed;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
   bottom: 20px;
   right: 20px;
 	background-color:#f31111;
