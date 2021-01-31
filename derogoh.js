@@ -60,10 +60,10 @@ new TypeIt("#type1", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Barrister", { delay: 400 })
+  .type("", { delay: 400 })
   .pause(500)
   .delete(9)
-  .type("Notaire", { delay: 400 })
+  .type("Advocate", { delay: 400 })
   .pause(500)
   .delete(9)
   .go();
