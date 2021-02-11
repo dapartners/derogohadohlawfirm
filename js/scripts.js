@@ -211,6 +211,9 @@ if (glide)
     },
   }).mount();
 
+
+
+  
   // maulti-carousel
   $(document).ready(function () {
     var itemsMainDiv = ('.MultiCarousel');

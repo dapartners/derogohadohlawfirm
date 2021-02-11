@@ -10606,7 +10606,7 @@ header h1 {
 }
 
 .counters {
-	background: rgb(236, 8, 8);
+	background-color:#040505;
 	color: #fff;
 	padding: 40px 20px;
 	border-top: 3px lightskyblue solid;
@@ -10626,7 +10626,7 @@ header h1 {
 }
 
 .counters .counter {
-	font-size: 45px;
+	font-size: 1rem;
 	margin: 10px 0;
 }
 
@@ -10794,18 +10794,31 @@ color: white;
 background-color: red;
 }
 #footer-button:hover{
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: #040505;
 }
 #footer-practice{
   text-align: left;
+  border-width: 1px;
+  border-color: #494c4c1c;
+  border-style: solid;
+  margin-bottom:8px;
+  border-radius: 10px;
 }
 #footer-practice:hover{
-  color: black;
-  /* background-color: white; */
+  color: white;
+  background-color: #040505;
 }
 #footer-topics:hover{
   color:#040505;
+
+}
+#footer-newsletter{
+  color: white !important;
+
+}
+.containner{
+  margin-top:3rem;
 }
 
 /* values page */
@@ -10838,4 +10851,18 @@ background-color: red;
 .values:hover{
   box-shadow: 5px 10px 20px 1px rgb(27, 24, 24) !important;
       transform: scale(1.1);
+}
+
+
+.container-1{
+  display: block;
+}
+.btn-social-nav{
+  height: 1.7rem;
+  width: 1.7rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-radius: 100%;
 }

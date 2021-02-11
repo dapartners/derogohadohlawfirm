@@ -60,8 +60,8 @@ $('#myDiv').floatingWhatsApp({
     showPopup: true,
     showOnIE: false,
     headerTitle: 'Welcome!',
-    headerColor: 'crimson',
-    backgroundColor: 'crimson',
+    headerColor: '#efebec',
+    backgroundColor: '#efebec',
     buttonImage: '<img src="burger.svg" />'
 });
 ```
