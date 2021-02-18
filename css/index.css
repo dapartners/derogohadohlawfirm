@@ -230,8 +230,15 @@
      border-collapse: collapse;
      color: rgb(6, 110, 201);
    }
+   /* dropdown */
 
-   /* navbar */
+.dropdown-menu  {
+  overflow:auto;
+  height: 20rem;
+ }
+
+ 
+
 
  
   }

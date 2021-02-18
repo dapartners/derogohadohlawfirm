@@ -2990,6 +2990,7 @@ input[type=button].btn-block {
   top: 100%;
   left: 0;
   z-index: 1000;
+  
   display: none;
   float: left;
   min-width: 10rem;
@@ -3004,6 +3005,8 @@ input[type=button].btn-block {
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
 }
+
+
 
 .dropdown-menu-left {
   right: auto;
@@ -10218,6 +10221,24 @@ header.masthead {
 #masterhead-home{
   background-image: url("../assets/img/home.jpg"); /* REALESTATE LAW PAGE */
 }
+#masterhead-fintech{
+  background-image: url("../assets/img/fintech.jpg");
+}
+#masterhead-funds{
+  background-image: url("../assets/img/funds.jpg");
+}
+#masterhead-employment{
+  background-image: url("../assets/img/employment.jpg");
+}
+#masterhead-insolvency{
+  background-image: url("../assets/img/insolvency.jpg");
+}
+#masterhead-litigation{
+  background-image: url("../assets/img/litigation.jpg");
+}
+#masterhead-international2{
+  background-image: url("../assets/img/international2.jpg");
+}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
@@ -10865,4 +10886,143 @@ background-color: red;
   justify-content: center;
   padding: 0;
   border-radius: 100%;
+}
+
+/* mining and other pages description */
+
+.mining-description{
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 100%;  
+  font-size: 1.2rem;
+  margin-top: 2rem; 
+     padding: 2rem;
+     box-sizing: border-box;
+     font-family: 'Faustina', serif;
+     transform: scale(1);
+    transition: transform 0.5s ease;
+  text-align: left;
+}
+.mining li{
+  list-style-type:georgian;
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.promo-mining{
+  
+
+  padding-top: 1rem;
+  height: auto;
+  margin-top: 3rem;
+}
+
+.promo-card-mining{
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 16rem;
+  /* height: 37rem; */
+  margin: 1rem;
+  padding-top: 1rem;
+  box-sizing: border-box;
+  /* box-shadow: 0 4px 2px  rgb(236, 8, 8); */
+  transform: scale(1);
+ transition: transform 0.5s ease;
+}
+
+.promo-card-mining:hover{
+  box-shadow: 5px 10px 20px 1px rgb(27, 24, 24) !important;
+  transform: scale(0.99);
+}
+.promo-card-mining h3{
+  font-family: 'Oswald', sans-serif;
+  color: red;
+}
+.promo-card-mining hr{
+  width: 99%;
+  border: 1px solid rgb(236, 8, 8);
+  margin-top: 2rem;
+}
+.promo-card-mining p{
+  padding: 1rem;
+  font-family: 'Faustina', serif;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  font-size: 1.6rem;
+}
+.promo-card-mining li{
+  list-style-type:none;
+  width: 90%;
+  margin: 1rem;
+  font-size: 1.2rem;
+  text-align: left;
+  padding-top: 2%;
+}
+
+/* maritime page */
+.promo-card-maritime{
+  background-color: white;
+  display: inline-block;
+  width: 100%;
+  text-align-last: left;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  box-sizing: border-box;
+}
+.promo-card-maritime hr{
+  width: 19rem;
+  border: 1px solid rgb(236, 8, 8);
+  margin-top: 2rem;
+}
+.promo-card-maritime li {
+  list-style-type:none;
+  width: 90%;
+  margin: 1rem;
+  font-size: 1.2rem;
+  text-align: left;
+  padding-top: 2%;
+}
+.maritime-header{
+  font-family: 'Oswald', sans-serif;
+  color: red;
+  text-align: left;
+  padding-top: 2rem;
+}
+.maritime-description{
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 100%;  
+  font-size: 1.2rem;
+  margin-top: 2rem; 
+  /* box-shadow: 5px 10px 20px 1px rgb(252, 248, 248) !important; */
+     box-sizing: border-box;
+     font-family: 'Faustina', serif;
+     transform: scale(1);
+    transition: transform 0.5s ease;
+  text-align: left;
+}
+.maritime-description-main{
+  padding-left: 7rem;
+  padding-right: 7rem;
+  padding-top: 2rem;
+  padding-bottom:2rem;
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 100%;  
+  font-size: 1.2rem;
+  margin-top: 2rem; 
+     margin-bottom:2rem;
+     box-sizing: border-box;
+     font-family: 'Faustina', serif;
+     transform: scale(1);
+    transition: transform 0.5s ease;
+  text-align: left;
+}
+.promo-top-div-maritime{
+  background-color: white;
 }

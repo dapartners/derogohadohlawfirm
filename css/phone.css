@@ -60,7 +60,7 @@
       display: inline-block;
       padding: 2rem;
       width: 100%;
-      height: 18rem;
+      /* height: 18rem; */
       color: white;
     }
     
@@ -111,10 +111,71 @@
       color: rgb(6, 110, 201);
     }
 
-      /* NAv */
-  /* #mainNav .navbar-brand img {
-    height: 4rem;
-    transition: height 0.3s ease-in-out;
-  }
-    */
-  }
+ /* maritime page */
+.promo-card-maritime{
+  background-color: white;
+  display: inline-block;
+  width: 100%;
+  text-align-last: left;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+}
+.promo-card-maritime hr{
+  width: 80%;
+  border: 1px solid rgb(236, 8, 8);
+  margin-top: 2rem;
+}
+.promo-card-maritime li {
+  list-style-type:none;
+  width: 90%;
+  margin: 1rem;
+  font-size: 1.2rem;
+  text-align: left;
+  padding-top: 2%;
+}
+.maritime-header{
+  font-family: 'Oswald', sans-serif;
+  color: red;
+  padding-top: 2rem;
+}
+.maritime-description{
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 100%;  
+  font-size: 1.2rem;
+  margin-top: 2rem; 
+  margin-bottom: 1rem;
+     box-sizing: border-box;
+     font-family: 'Faustina', serif;
+     transform: scale(1);
+    transition: transform 0.5s ease;
+  text-align: left;
+}
+.maritime-description-main{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom:1rem;
+  background-color: white;
+  color: black;
+  display: inline-block;
+  width: 100%;  
+  font-size: 1.2rem;
+  margin-top: 2rem; 
+     margin-bottom:2rem;
+     box-sizing: border-box;
+     font-family: 'Faustina', serif;
+     transform: scale(1);
+    transition: transform 0.5s ease;
+  text-align: left;
+}
+/* dropdown */
+
+.dropdown-menu  {
+  overflow:auto;
+  height: 20rem;
+ }
+
+}

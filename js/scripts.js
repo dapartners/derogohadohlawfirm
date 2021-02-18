@@ -1,3 +1,4 @@
+AOS.init();
 /*!
     * Start Bootstrap - Agency v6.0.3 (https://startbootstrap.com/theme/agency)
     * Copyright 2013-2021 Start Bootstrap
@@ -85,7 +86,7 @@ counters.forEach(counter => {
 });
 
 // Personal details
-AOS.init();
+// AOS.init();
 
 const menu = document.querySelector(".menu");
 const navOpen = document.querySelector(".hamburger");
