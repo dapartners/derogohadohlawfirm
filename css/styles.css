@@ -10021,7 +10021,7 @@ p {
 @media (min-width: 768px) {
   section {
     padding: 9rem 0;
-    background-color: white;
+    /* background-color: white; */
   }
 }
 ::-moz-selection {
