@@ -30,7 +30,7 @@
      /* Promo */
     
     .promo {
-      background-color: black;
+      background-color: rgb(0, 0, 0);
       color: white;
       padding-top: 10rem;
       height: auto;
@@ -59,6 +59,7 @@
     }
     .promo-card h3{
       font-family: 'Oswald', sans-serif;
+      color: red;
     }
     .promo-card hr{
       width: 99%;
@@ -81,7 +82,7 @@
       text-align: left;
     }
     .promo-enquiry-div{
-      background-color: red;
+      background-color: green;
       margin-top: 3rem;
       display: inline-block;
       padding: 2rem;

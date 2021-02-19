@@ -153,6 +153,7 @@
    }
    .promo-card h3{
      font-family: 'Oswald', sans-serif;
+     color: red;
    }
    .promo-card hr{
      width: 99%;
@@ -175,7 +176,7 @@
      text-align: center;
    }
    .promo-enquiry-div{
-    background-color: red;
+    background-color: green;
      margin-top: 3rem;
      display: inline-block;
      padding: 2rem;

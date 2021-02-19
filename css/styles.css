@@ -10021,6 +10021,7 @@ p {
 @media (min-width: 768px) {
   section {
     padding: 9rem 0;
+    background-color: white;
   }
 }
 ::-moz-selection {
@@ -10912,10 +10913,10 @@ background-color: red;
 
 .promo-mining{
   
-
+  background-color: white;
   padding-top: 1rem;
   height: auto;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 
 .promo-card-mining{
