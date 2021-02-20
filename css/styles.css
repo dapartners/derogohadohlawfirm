@@ -552,10 +552,17 @@ pre code {
 .container-md,
 .container-sm {
   width: 100%;
+  
   padding-right: 0.75rem;
   padding-left: 0.75rem;
   margin-right: auto;
   margin-left: auto;
+}
+#about-div{
+  background-color: white;
+}
+#about{
+  background-color: white;
 }
 
 @media (min-width: 576px) {
@@ -2995,6 +3002,7 @@ input[type=button].btn-block {
   float: left;
   min-width: 10rem;
   padding: 0.5rem 0;
+  padding-left: 2rem;
   margin: 0.125rem 0 0;
   font-size: 1rem;
   color: #212529;
@@ -10006,7 +10014,8 @@ p {
   padding: 6rem 0;
 }
 .page-section h2.section-heading {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
+  color: red;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -10372,8 +10381,10 @@ header.masthead .masthead-heading {
   content: "";
   background-color: #e9ecef;
 }
+
 .timeline > li {
   position: relative;
+  color:red;
   min-height: 50px;
   margin-bottom: 50px;
 }
@@ -11027,3 +11038,12 @@ background-color: red;
 .promo-top-div-maritime{
   background-color: white;
 }
+
+/* Learn more button */
+
+#learn-more-button{
+  border-radius: 5rem !important;
+  background-color: red !important;
+}
+
+

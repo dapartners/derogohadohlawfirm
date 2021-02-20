@@ -82,7 +82,7 @@
       text-align: left;
     }
     .promo-enquiry-div{
-      background-color: green;
+      background-color: white;
       margin-top: 3rem;
       display: inline-block;
       padding: 2rem;
@@ -91,7 +91,8 @@
       color: white;
     }
     .promo-enquiry-div h1{
-        font-size: 1.8rem;
+      font-size: 1.2rem;
+      color: green;
         margin-bottom: 3rem;
     }
     .promo-top {
@@ -129,12 +130,14 @@
       font-size: 3rem;
     }
     .promo-button {
-      width: 20rem;
+      /* width: 100%; */
+      width: 16rem;
+    border-radius: 5rem;
       height: 4rem;
       border-style: none;
-      background-color: white;
-      color: black;
-      font-size: 1.8rem;
+      background-color: red;
+    color: white;
+      font-size: 1.3rem;
     }
     .promo-button:hover{
       background-color: white;
@@ -214,5 +217,14 @@
   overflow:auto;
   height: 20rem;
  }
+
+ /* Footer  */
+
+.footer_ul_amrc {
+  margin: 0px;
+  list-style-type: none;
+  padding-left: 2rem;
+  font-size: 14px;
+}
     
   }
