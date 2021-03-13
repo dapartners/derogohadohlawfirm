@@ -781,9 +781,29 @@ color: white;
 background-color: red;
 }
 #footer-button:hover{
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: #040505;
 }
 #footer-practice{
   text-align: left;
+  border-width: 1px;
+  border-color: #494c4c1c;
+  border-style: solid;
+  margin-bottom:8px;
+  border-radius: 10px;
+}
+#footer-practice:hover{
+  color: white;
+  background-color: #040505;
+}
+#footer-topics:hover{
+  color:#040505;
+
+}
+#footer-newsletter{
+  color: white !important;
+
+}
+.containner{
+  margin-top:3rem;
 }

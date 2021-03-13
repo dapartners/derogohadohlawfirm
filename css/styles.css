@@ -164,7 +164,7 @@ sup {
 }
 
 a {
-  color: #fed136;
+  color: red;
   text-decoration: none;
   background-color: transparent;
 }
@@ -481,7 +481,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .img-thumbnail {
@@ -10229,7 +10229,8 @@ header.masthead {
   background-image: url("../assets/img/consult.jpg"); /* REALESTATE LAW PAGE */
 }
 #masterhead-home{
-  background-image: url("../assets/img/home.jpg"); /* REALESTATE LAW PAGE */
+  background-image: url("../assets/img/da.jpg"); /* REALESTATE LAW PAGE */
+  
 }
 #masterhead-fintech{
   background-image: url("../assets/img/fintech.jpg");
@@ -10458,6 +10459,11 @@ header.masthead .masthead-heading {
 }
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
+  color: red;
+  text-decoration: none;
+}
+#timeline-a{
+  text-decoration:none;
 }
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
@@ -11049,4 +11055,49 @@ background-color: red;
   background: white;
 }
 
+.team {
+  color: #fff;
+  background-color: #111;
+  padding: 3rem;
+  text-align: center;
+  border-radius: 1rem;
+  border-bottom: 4px solid transparent;
+  transition: all 300ms ease-in-out;
+}
+
+.team .img-cover {
+  overflow: hidden;
+  border-radius: 100%;
+  border: 4px solid #dd9a05;
+  height: 13rem;
+  width: 13rem;
+  margin: 0 auto;
+  transition: all 300ms ease-in-out;
+}
+
+.team .img-cover img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.team h3 {
+  font-size: 1.6rem;
+  margin: 1rem 0;
+}
+
+.team p {
+  font-size: 1.5rem;
+  color: #ccc;
+  width: 80%;
+  margin: 0 auto 1rem auto;
+}
+
+.team:hover {
+  border-bottom: 4px solid #fff;
+  background-color: #dd9a05;
+}
+
+.team:hover .img-cover {
+  border-color: #fff;
+}
 

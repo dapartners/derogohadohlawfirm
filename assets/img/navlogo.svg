@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 147 100" xml:space="preserve">
+<g>
+	<rect x="5.06" y="8.79" fill="none" width="137.88" height="67.88"/>
+	<g>
+		
+			<image width="101" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAsCAYAAAB8K3ZrAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAGdJREFUeNrs0UERABAARFHkUEga
+WaRRSA8CcDbGvHfc4/4QAIBvxdOYa5+uuWO0sjVIbnmPKKIgiiiIIgqiiIIoiCIKooiCKKIgCqKI
+giiiIIooiIIooiCKKIgiCqIgiigAABwtAQYAgaoERK7zE1EAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 26 19)">
+		</image>
+		
+			<rect x="31.51" y="24.35" fill="none" stroke="#08497F" stroke-width="0.25" stroke-linejoin="bevel" stroke-miterlimit="10" width="89.89" height="32.82"/>
+	</g>
+	<g>
+		<path fill="#EFF6F6" d="M75.4,29.54c0,0-0.95,1-1.07,1.98c-0.12,0.98,0.54,1.82,0.54,1.82l-0.56,0.41c0,0-2.24,0.3-3.37,0.66
+			c-1.13,0.36-3.84,1.55-3.84,1.55l-1.7,0.77c0,0-0.69-1.32-1.45,0c-0.76,1.32,4.32-0.28,4.32-0.28s4.24-2.45,5.88-1.82
+			c0,0,0.43,2.63,0.72,2.66c0.29,0.03-0.67,7.51-0.28,7.43c0.38-0.08-0.31,0.92-0.31,0.92s0.06,1.27-0.13,1.96
+			c-0.19,0.68-0.63,1.09-0.63,1.09l-0.63,0.41c0,0-0.76-0.27-1.51,0.45c0,0-1.26-0.18-1.38,0.45c0,0-0.5-0.05-1.13,0.45l-0.94,0.32
+			h7.48V29.54z"/>
+		<path fill="#EFF6F6" d="M75.4,29.54c0,0,0.95,1,1.07,1.98s-0.54,1.82-0.54,1.82l0.56,0.41c0,0,2.24,0.3,3.37,0.66
+			c1.13,0.36,3.84,1.55,3.84,1.55l1.7,0.77c0,0,0.69-1.32,1.45,0c0.76,1.32-4.32-0.28-4.32-0.28s-4.24-2.45-5.88-1.82
+			c0,0-0.43,2.63-0.72,2.66c-0.29,0.03,0.67,7.51,0.28,7.43s0.31,0.92,0.31,0.92s-0.06,1.27,0.13,1.96
+			c0.19,0.68,0.63,1.09,0.63,1.09l0.63,0.41c0,0,0.76-0.27,1.51,0.45c0,0,1.26-0.18,1.38,0.45c0,0,0.5-0.05,1.13,0.45l0.94,0.32
+			H75.4V29.54z"/>
+		<g>
+			<g>
+				<path fill="none" stroke="#F3F3F3" stroke-miterlimit="10" d="M86.18,37.3l-5.39,7.57c0,0,5.4,3.65,10.84,0L86.18,37.3z"/>
+				<polygon fill="none" stroke="#F3F3F3" stroke-miterlimit="10" points="86.34,44.55 91.76,44.73 86.37,37.16 				"/>
+				<polygon fill="none" stroke="#F3F3F3" stroke-miterlimit="10" points="86.41,44.55 80.99,44.73 86.38,37.16 				"/>
+			</g>
+			<path fill="#F9F9F9" d="M80.99,44.73c0,0,4.99,3.87,10.77,0H80.99z"/>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#F3F3F3" stroke-miterlimit="10" d="M64.05,37.7l-5.39,7.57c0,0,5.4,3.65,10.84,0L64.05,37.7z"/>
+				<polygon fill="none" stroke="#F3F3F3" stroke-miterlimit="10" points="64.22,44.95 69.64,45.13 64.25,37.56 				"/>
+				<polygon fill="none" stroke="#F3F3F3" stroke-miterlimit="10" points="64.29,44.95 58.87,45.13 64.26,37.56 				"/>
+			</g>
+			<path fill="#F9F9F9" d="M58.87,45.13c0,0,4.99,3.87,10.77,0H58.87z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#C4C9C9" d="M17.97,19.47c0,0,28.98,15.62,23.81,16.62c0,0,4.89,5.54,1.06,7.41c0,0,2.93-2.42-1.54-5.58
+			c0,0,2.91,9.71-9.06,8.73l0.06-13.95l3.85,0.11L17.97,22.27v37.58h18.75c0,0,19.88-1.4,18.75-21.1S36.74,20,36.74,20L17.97,19.47z
+			"/>
+		<path fill="#C4C9C9" d="M38.17,33.64v1.4c0,0,2.12,0.59,2.13,1.01C40.29,36.47,40.96,34.92,38.17,33.64z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="110.5526" y1="39.2096" x2="139.8846" y2="39.2096">
+					<stop  offset="0.4796" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.6902" style="stop-color:#9C9C9C"/>
+					<stop  offset="0.8045" style="stop-color:#6B6B6B"/>
+				</linearGradient>
+				<polygon fill="url(#SVGID_1_)" points="109.88,19.19 120.81,19.19 139.85,59.23 				"/>
+			</g>
+			<polygon fill="#C4C9C9" points="108.99,19.15 89.89,59.19 103.98,59.19 107.45,51.34 121.35,51.34 125.21,59.19 139.03,59.19 			
+				"/>
+		</g>
+		<path fill="#F7F9FA" d="M110.35,39.19l-1.64,4.9h6.81c0,0,1.76,0.72,0.85,1.03c0,0,3.13-0.07,3.31,3.1c0,0,1.82-3.83-1.17-3.98
+			c0,0-1.06-2.53-2.49-2.19c-1.44,0.34-4.52,0.03-4.52,0.03L110.35,39.19z"/>
+		<polygon fill="#F7F9FA" points="113.07,44.65 113.34,45.69 115.45,45.69 		"/>
+	</g>
+	<g>
+		<rect x="14.35" y="69.49" fill="none" width="129.26" height="7.54"/>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 14.5709 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 22.7682 74.2675)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">C</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 29.5626 74.3007)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">O</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 38.2696 74.2812)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">V</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 45.8756 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 54.0719 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 60.5186 74.247)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">S</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 66.1637 74.1953)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px"> </text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 68.8497 74.2285)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">/</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 73.4264 74.1953)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px"> </text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 76.1129 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 84.3092 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 90.7555 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 97.2022 74.3007)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">O</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 105.9093 74.2724)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">R</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 113.0001 74.2929)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">N</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 121.2628 74.2656)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">E</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 127.9493 74.2627)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">Y</text>
+		
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 134.4933 74.247)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">S</text>
+	</g>
+</g>
+</svg>
