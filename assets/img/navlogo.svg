@@ -7,9 +7,9 @@
 	<g>
 		
 			<image width="101" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAsCAYAAAB8K3ZrAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAGdJREFUeNrs0UERABAARFHkUEga
-WaRRSA8CcDbGvHfc4/4QAIBvxdOYa5+uuWO0sjVIbnmPKKIgiiiIIgqiiIIoiCIKooiCKKIgCqKI
-giiiIIooiIIooiCKKIgiCqIgiigAABwtAQYAgaoERK7zE1EAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 26 19)">
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAGdJREFUeNrs0UERABAARFH0EEgb
+UbQRSBACcDbGvHfc4/4QAIBvxdOYa5+uuWO0sjVIbnmPKKIgiiiIIgqiiIIoiCIKooiCKKIgCqKI
+giiiIIooiIIooiCKKIgiCqIgiigAABwtAQYAhIIERIpZSFgAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 26 19)">
 		</image>
 		
 			<rect x="31.51" y="24.35" fill="none" stroke="#08497F" stroke-width="0.25" stroke-linejoin="bevel" stroke-miterlimit="10" width="89.89" height="32.82"/>
@@ -66,45 +66,45 @@ giiiIIooiIIooiCKKIgiCqIgiigAABwtAQYAgaoERK7zE1EAAAAASUVORK5CYII=" transform="mat
 		<polygon fill="#F7F9FA" points="113.07,44.65 113.34,45.69 115.45,45.69 		"/>
 	</g>
 	<g>
-		<rect x="14.35" y="69.49" fill="none" width="129.26" height="7.54"/>
+		<rect x="14.98" y="69.55" fill="none" width="130.96" height="7.54"/>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 14.5709 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 15.1972 74.3519)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">A</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 22.7682 74.2675)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">C</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 23.3939 74.3411)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">V</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 29.5626 74.3007)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">O</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 31.0004 74.3607)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">O</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 38.2696 74.2812)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">V</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 39.7069 74.3275)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">C</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 45.8756 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 46.5018 74.3519)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">A</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 54.0719 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 54.6981 74.3206)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">T</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 60.5186 74.247)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">S</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 61.1449 74.307)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">S</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 66.1637 74.1953)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px"> </text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 66.7899 74.2552)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px"> </text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 68.8497 74.2285)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">/</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 69.476 74.2884)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">/</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 73.4264 74.1953)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px"> </text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 74.0526 74.2552)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px"> </text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 76.1129 74.292)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">A</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 76.7391 74.3519)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">A</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 84.3092 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 84.9354 74.3206)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">T</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 90.7555 74.2607)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">T</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 91.3817 74.3206)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">T</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 97.2022 74.3007)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">O</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 97.8285 74.3607)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">O</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 105.9093 74.2724)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">R</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 106.5355 74.3324)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">R</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 113.0001 74.2929)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">N</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 113.6254 74.3529)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">N</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 121.2628 74.2656)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">E</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 121.89 74.3255)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">E</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 127.9493 74.2627)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">Y</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 128.5746 74.3226)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">Y</text>
 		
-			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 134.4933 74.247)" fill="#FFFFFF" font-family="'ErasITC-Bold'" font-size="7px">S</text>
+			<text transform="matrix(1.3957 -0.0487 0.0349 0.9994 135.1205 74.307)" fill="#FCFCFC" font-family="'ErasITC-Bold'" font-size="7px">S</text>
 	</g>
 </g>
 </svg>
