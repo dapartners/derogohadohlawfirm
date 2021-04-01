@@ -48,7 +48,7 @@ li {
 
 @media only screen and (max-width: 1200px) {
   .container {
-    padding: 0 3rem;
+    padding: 0 2rem;
   }
 }
 
@@ -65,8 +65,7 @@ li {
   position: absolute;
   right: 5%;
   bottom: 0;
-  width: 50rem;
-  height: 70rem;
+  width: 60rem;
   z-index: -1;
 }
 
@@ -98,6 +97,8 @@ li {
 
 .nav {
   padding: 1.6rem 0;
+  position: fixed;
+  top: 0;
 }
 
 .nav.fix-nav {
@@ -808,3 +809,11 @@ background-color: red;
 .containner{
   margin-top:3rem;
 }
+.footer_ul_amrc {
+  margin: 0px;
+  list-style-type: none;
+  padding-left: 2rem;
+  font-size: 14px;
+}
+
+
