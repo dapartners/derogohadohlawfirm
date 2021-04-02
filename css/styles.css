@@ -9869,6 +9869,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-muted {
   color: #6c757d !important;
+  /* text-align: justify !important; */
 }
 
 .text-black-50 {
@@ -10544,6 +10545,7 @@ header.masthead .masthead-heading {
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
+  padding: 2rem;
 }
 .team-member img {
   width: 14rem;
@@ -11021,7 +11023,7 @@ background-color: red;
      font-family: 'Faustina', serif;
      transform: scale(1);
     transition: transform 0.5s ease;
-  text-align: left;
+  text-align: justify;
 }
 .maritime-description-main{
   padding-left: 7rem;
@@ -11039,7 +11041,7 @@ background-color: red;
      font-family: 'Faustina', serif;
      transform: scale(1);
     transition: transform 0.5s ease;
-  text-align: left;
+    text-align: justify;
 }
 .promo-top-div-maritime{
   background-color: white;
