@@ -190,7 +190,15 @@
  height: 20rem;
 }
 
+/* PROFILE PAGE */
 
-
+#profile-pic{
+  position: absolute;
+  right: 5%;
+  bottom: 0;
+  width: 60rem;
+  height: auto;
+  z-index: -1;
+}
     
   }
